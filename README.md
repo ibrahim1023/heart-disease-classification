@@ -30,6 +30,4 @@ Machine learning models discussed in this project
 
 ## Graphs 
 Some graphs visualized using Matplotlib
-![Heart Disease based on Gender]
-
-
+[!Heart Disease based on Gender](Images/gender.png)
