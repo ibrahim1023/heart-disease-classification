@@ -30,4 +30,10 @@ Machine learning models discussed in this project
 
 ## Graphs 
 Some graphs visualized using Matplotlib
-[!Heart Disease based on Gender](Images/gender.png)
+![Heart Disease based on Gender](https://github.com/ibrahim1023/heart-disease-classification/blob/main/Images/gender.png?raw=true "Heart Disease based on Gender")
+
+![Heart Disease in function of Age and Max Heart Rate](https://github.com/ibrahim1023/heart-disease-classification/blob/main/Images/age.png?raw=true "Heart Disease in function of Age and Max Heart Rate")
+
+![Heart Disease Frequency Per Chest Pain Type](https://github.com/ibrahim1023/heart-disease-classification/blob/main/Images/cpt.png?raw=true "Heart Disease Frequency Per Chest Pain Type")
+
+![Cross-Validated Metrics](https://github.com/ibrahim1023/heart-disease-classification/blob/main/Images/cvm.png?raw=true "Cross-Validated Metrics")
