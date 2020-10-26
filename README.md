@@ -23,7 +23,7 @@ The project takes an in-depth approach in creating a heart disease classifier ba
 * Download Anaconda-Navigator: https://www.anaconda.com/products/individual
 
 ## Dataset
-The original data is from the Cleveland database from UCI Machine Learning Repository. It contains contains 76 attributes, but here only 14 attributes will be used. Attributes (also called features) are the variables what we'll use to predict our target variable.
+The original data is from the [Cleveland database](https://archive.ics.uci.edu/ml/datasets/heart+Disease) from UCI Machine Learning Repository. It contains contains 76 attributes, but here only 14 attributes will be used. Attributes (also called features) are the variables what we'll use to predict our target variable.
 
 ### Features
 The following are the features we'll use to predict our target variable (heart disease or no heart disease).
