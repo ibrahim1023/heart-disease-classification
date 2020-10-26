@@ -26,7 +26,7 @@ Machine learning models discussed in this project
 | :---  |     :---:      |
 | `LogisticRegression` | 88.5 %|
 | `RandomForestClassifier` | 86.8 % |
-| `KNN` | 75.41 % |
+| `KNN` | 75.4 % |
 
 ## Graphs 
 Some graphs visualized using Matplotlib
